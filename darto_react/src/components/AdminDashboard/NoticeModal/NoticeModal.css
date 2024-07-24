@@ -1,0 +1,110 @@
+ .container{
+    z-index: "4";
+    font-weight: 400;
+    max-width: 1800;
+    
+  }
+ .modalContainer  {
+    font-Weight: 400;
+    max-width : 18000;
+  }
+  .content  {
+    font-Weight: 400;
+    font-Size: 16;
+  }
+  .floatLeft {
+    float: "left";
+  }
+  .floatRight {
+    float: "right";
+  }
+  .floatNone {
+    float: "none";
+  }
+  .alignLeft {
+    text-Align: "left";
+  }
+  .alignRight {
+    text-Align: "right",
+  }
+  .detailsHeader {
+    text-Align: "left";
+    margin-Bottom: 20;
+    font-size: 18,
+  }
+  .detailsRow {
+    margin-Top: 10;
+    color: "black";
+    padding-right: 15,
+  }
+  .buttonContainer {
+    margin-Top: 20;
+    margin-Bottom: 20;
+  }
+  .detailsRowFooter {
+    font-size: 12;
+    text-Align: "left";
+  }
+  .button{
+    margin-Left: 20;
+  }
+  .checkIcon{
+    color: "#A5DC86";
+    border: "solid 4px";
+    border-radius: 22;
+    padding: 2;
+    font-size: 44;
+    border-color: "aquamarine",
+  }
+  .closeButton {
+    position: "absolute";
+   
+  }
+  .titleContent {
+    padding-top: 5;
+    padding-left: 10;
+    font-size: "xx-large";
+  }
+  .loginModalTitle {
+    font-weight: 500;
+    text-align: "left";
+    color: gray;
+    font-size: 1.825em;
+    line-height: "1.5em";
+  }
+  .subTitle {
+    font-weight: 400;
+    font-size: "16px";
+  }
+  .center {
+    text-align: "center";
+    margin: 20;
+    margin-top: 40;
+  }
+  
+ .labelStyle {
+    color: gray + " !important";
+    font-size: 14;
+    font-family: '"Roboto", "Helvetica", "Arial", sans-serif' ;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: "left";
+    transform: "none";
+  }
+  .selectLabel {
+    font-Size: 14;
+    text-transform: "none";
+    color: "#AAAAAA !important";
+    /* //top: 7 */
+  }
+  .select {
+    padding-bottom: 10;
+    font-size: 14;
+  }
+  
+  .modalCloseButton {
+    float: "right",
+  }
+  
+  
+  

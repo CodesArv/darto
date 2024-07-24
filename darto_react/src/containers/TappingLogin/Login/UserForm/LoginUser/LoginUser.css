@@ -1,0 +1,85 @@
+@media all and (min-width: 600px) {
+  .Login {
+      /* padding: 60px 0; */
+      padding-top: 0px;
+    }
+  .Login form {
+      margin: 0 auto;
+    width: 50%;
+    }
+  }
+  .Login2{
+   padding-left: 18px;
+   padding-right: 18px;
+
+    
+    /* border: 1px solid #23354d; */
+  }
+  .sinup_color_define{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 27px;
+  }
+  .padding_top_18px_define{
+    padding-top: 45px;
+    width: 63%;
+    text-transform: uppercase;
+    margin: auto;
+  }
+  .padding_top_18px_define_o{
+    padding-top: 18px;
+  }
+  .padding_top_18px_define_reg{
+  
+    width: 63%;
+    text-transform: uppercase;
+    margin: auto;
+  }
+  .material_fix_icon{
+    color:#7890a1;
+    padding-left: 12px;
+    padding-right: 12px;
+   
+   
+  }
+  
+  .hover_of_color:hover{
+    background-color: #10142c;
+    
+    }
+  .material_div_inside{
+    align-items: center;
+    display: flex;
+    background-color: rgb(35, 53, 77);
+    border-top-left-radius: 6px !important;
+    border-bottom-left-radius: 6px !important;
+  }
+  .border_form_ctrl{
+    border-top-right-radius: 6px !important;
+    border-bottom-right-radius: 6px !important;
+  }
+  .size-manage_by_login{
+    /* font-size: 100px !important; */
+    color:  rgb(35, 53, 77);
+ text-align: center;
+ padding-bottom: 18px;
+}
+.size_of_img_ninty_nine_by_login{
+  width: 99px;
+  border-radius: 99px;
+  border: 2px solid rgb(35, 53, 77);
+
+}
+.padding_bottom_27px{
+  padding-bottom: 18px;
+}
+.padding_top_18px_define_reg_profile{
+
+  
+  
+    text-transform: uppercase;
+    
+  
+}

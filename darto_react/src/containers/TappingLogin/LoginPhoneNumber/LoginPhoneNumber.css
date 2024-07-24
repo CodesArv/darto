@@ -1,0 +1,82 @@
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 12px;
+    position: relative;   
+    z-index: 2;
+}
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #42AEEC;
+    color: #fff;
+}
+.text-login-phone {
+    width: 349px;
+    height: 70px;
+    overflow: hidden;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-word;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color:  #acb7b2 ;
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-align: center;
+  }
+  .phone-login-button {
+    width: 309px !important;
+    /* align-items: center; */
+  
+   padding: 15px;
+    border: none;
+    background-color: #0099ff;
+    overflow: visible;
+    color:  #ffffff;
+  font-size: 12px;
+  margin-top: 30px;
+    border-radius: 38px;
+  }
+  .login-number-send{
+      height: 100vh;
+      padding: 30px;
+  }
+  .style_d_phno{
+   
+        width: 100%;
+        height: 5vh;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 3rem;
+        justify-content: space-around;
+      
+    
+  }
+  .name_Class_Define{
+    color:  #acb7b2;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 1.2;
+  margin-top: 10px;
+     
+  }

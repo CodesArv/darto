@@ -1,0 +1,30 @@
+.about_Header{
+    font-weight: 700;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-d983c132-e015-4177-baf8-441dbe84f948, #00bbff) /* {"name":"blue_highlight"} */;
+    font-size: 14px;
+    letter-spacing: 0px;
+}
+.about_Parra{
+    font-family: "Inter", sans-serif;
+    color: #7890a1 ;
+    font-size: 12px;
+    letter-spacing: 0px;
+}
+.about_text_Align{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+  padding-bottom: 99px;
+}
+.font_size_18px{
+    font-size: 27px;
+}
+
+
+/* body{
+    padding:20px;
+   background-color: #10142c;
+    color:white;
+} */

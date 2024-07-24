@@ -1,0 +1,67 @@
+
+.spn{
+    color: white;  
+  }
+  .amigo65{
+      color: var(--blue_highlight, #00bbff);
+      font-size: 16px;
+  }
+  .rint{
+  
+      display: inline-block;
+  }
+  .txtcolor1st{
+      color: gray;
+      font-size: 13px;
+     
+  }
+  .txtcolor2nd{
+      color: #7890a1 !important;
+      font-size: 13px;
+      padding-left: 20px; 
+  }
+  .spn1{
+      color: var(--grey2, #7890a1);
+      font-size: 11px; 
+      float: right;
+    }
+    .button-container-div12 {
+      width: 50vw;
+      height: 2vh;
+      margin: auto;
+  }
+  .txtcolor3b{
+      color: var(--grey2, #7890a1);
+      font-size: 12px;
+  }
+  .mdshare{
+      color: #00bbff !important; 
+      float: right;
+  }
+  .padding_Darto_Arena_card{
+    /* backgroundColor: "#10142c",
+    marginLeft: "20px",
+    marginRight: "20px", */
+    background-color:#10142c !important;
+    flex: 1 !important;
+    /* ma-left: 20px !important;
+    padding-right: 20px !important; */
+    /* margin-left: 20px;
+    margin-right: 20px; */
+  }
+  .style_darto_display_f{
+      display: flex;
+  }
+  .display_flex_align_center{
+      display: flex;
+      align-items: center;
+  }
+  .upper_case_define{
+    text-transform: uppercase;
+  }
+  .color_light_gray{
+      color: #b5b5b5 !important;
+  }
+  .arrow_define_size{
+      font-size: 18px;
+  }

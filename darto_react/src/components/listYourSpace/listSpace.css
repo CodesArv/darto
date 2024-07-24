@@ -1,0 +1,80 @@
+.contact_Heading_List{
+    font-style: normal;
+  font-family: "Noto Sans", sans-serif;
+  color: var(--token-d983c132-e015-4177-baf8-441dbe84f948, #00bbff) /* {"name":"blue_highlight"} */;
+  font-size: 16px;
+}
+.getback_define_shortly{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-cebda8be-1d57-4f3c-87d7-5b584796ea49, #7890a1) /* {"name":"greay"} */;
+    font-size: 12px;
+}
+.become_Partener{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-d983c132-e015-4177-baf8-441dbe84f948, #00bbff) /* {"name":"blue_highlight"} */;
+    font-size: 16px;
+}
+.interest_Location{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-a38dd3d3-b9de-4302-b504-277e6b4a701f, #7890a1) /* {"name":"grey2"} */;
+    font-size: 12px;
+}
+.list_space_Get{
+    width: 135px;
+    display: flex;
+  flex-direction: row;
+   padding-left: 18px;
+
+
+  overflow: visible;
+  border-color: var(--token-105cd1bb-da93-4dec-9132-daecc8454f68, #23354d) /* {"name":"Search"} */;
+  border-style: solid;
+  border-top-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.storeFront_color_ic{
+    color: rgb(0, 187, 255);
+}
+.list_space_dart_d{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-d983c132-e015-4177-baf8-441dbe84f948, #00bbff) /* {"name":"blue_highlight"} */;
+    font-size: 14px;
+}
+.margin_space_define_list{
+ 
+    
+  
+    padding-bottom: 12px;
+      
+        border-color: var(--token-105cd1bb-da93-4dec-9132-daecc8454f68, #23354d) /* {"name":"Search"} */;
+        border-style: solid;
+        border-top-width: 0px;
+        border-bottom-width: 1px;
+        border-left-width: 0px;
+        border-right-width: 0px;
+        padding-top: 12px;
+      
+}
+.contact_List_Space_Define{
+  
+      
+  
+    padding-top: 9px;
+}
+.padding_List_Space{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+::placeholder {
+    color: var(--token-a38dd3d3-b9de-4302-b504-277e6b4a701f, #7890a1) /* {"name":"grey2"} */;
+    opacity: 1; /* Firefox */
+  }
+  .padding_9px_top{
+      padding-top: 9px;
+  }

@@ -1,0 +1,56 @@
+.team-d-p-council{
+ 
+        box-sizing: border-box;
+        flex-shrink: 0;
+        width: 100%;
+      
+        /* overflow: visible; */
+        /* background-image: url("../../../assets/images/logo_files/imgn.jpg"); */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 6px;
+        /* border: 2px solid var(--token-105cd1bb-da93-4dec-9132-daecc8454f68, #23354d) ; */
+     
+}
+.textadmin_council{
+  
+    padding-top: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--blue_highlight, #00bbff);
+    font-size: 12px;
+
+    text-transform: uppercase;
+    text-align: center;
+}
+.stackline_council{
+    width: 100%; 
+    flex-shrink: 0;
+    font-family: "Noto Sans", sans-serif;
+    justify-content: flex-start;
+    font-size: 11px;
+    overflow: visible;
+    text-align: center;
+  }
+  .color_Gray_Twelve_council{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-a38dd3d3-b9de-4302-b504-277e6b4a701f, #7890a1) /* {"name":"grey2"} */;
+    font-size: 14px;
+}
+.font_Style_Common_council{
+    font-family: "Roboto-Medium", sans-serif;
+    color:  #00bbff /* {"name":"blue_highlight"} */;
+    font-size: 14px;
+    
+}
+@media screen and (min-width:600px) {
+    .font_Style_Common_council{
+        font-family: "Roboto-Medium", sans-serif;
+        color:  #00bbff /* {"name":"blue_highlight"} */;
+        font-size: 21px;
+        
+    }
+   }

@@ -1,0 +1,48 @@
+.team-joined {
+    width: auto; /* 86px */
+    height: auto; /* 14px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: 700;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--grey2, #7890a1);
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1;
+    text-align: center;
+  }
+  .textpara1 {
+    width: auto; /* 171px */
+    height: auto; /* 14px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--white, #ffffff);
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+  .stake-team-details1 {
+    flex: 1;
+    width: 1px;
+    flex-shrink: 0;
+    height: 82px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow: visible;
+    border-radius: 6px;
+  }
+
+  .team_club_img_128_72{
+    width: 128px;
+    height:72px ;
+    border-radius: 6px;
+  }

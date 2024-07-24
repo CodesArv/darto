@@ -1,0 +1,40 @@
+.spn{
+  color: white;  
+}
+.amigo{
+    color: var(--blue_highlight, #00bbff);
+    font-size: 16px;
+}
+.rint{
+
+    display: inline-block;
+}
+.txtcolor1st{
+    color: gray;
+    font-size: 13px;
+   
+}
+.txtcolor2nd{
+    color: gray;
+    font-size: 13px;
+    padding-left: 20px; 
+}
+.spn1{
+    color: var(--grey2, #7890a1);
+    font-size: 11px; 
+    float: right;
+  }
+  .button-container-div12 {
+    width: 50vw;
+    height: 2vh;
+    margin: auto;
+}
+.txtcolor3b{
+    color: var(--grey2, #7890a1);
+    font-size: 12px;
+}
+.mdshare{
+    color: var(--grey2, #7890a1); 
+    float: right;
+}
+

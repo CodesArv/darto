@@ -1,0 +1,59 @@
+.editcontainer{
+    background-color:rgb(16, 20, 44);
+
+}
+.editprofileicon{
+    font-size: 20px;
+    background: none;
+}
+.editprofilemenu{
+    color: skyblue;
+    font-size: 15px;
+    border-bottom: solid 1px rgba(57, 59, 59, 0.932);
+}
+.flexrightitem{
+    display: flex;
+    justify-content: flex-end;
+}
+.flexitems{
+    display: flex;
+
+}
+.category{
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+    height: 30px;
+    margin: 25px;
+    color:  white;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #fE6666;
+
+ width: 100px;
+}
+.editprofilebtnn{
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+    height: 30px;
+    margin: 25px;
+    color: rgb(88, 82, 82);
+    font-size: 15px;
+    font-weight: 600;
+    background :none;
+ width: 150px;
+
+
+
+}
+@media only screen and (max-width: 600px) {
+    .responsivefont{
+        font-size: 12px;
+    }
+    .editalignleft{
+        margin-left: 10px;
+    }
+.editprofilebtnn{
+    width: 100px;
+}
+    
+  }

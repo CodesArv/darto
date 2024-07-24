@@ -1,0 +1,64 @@
+.frame-slide6 {
+    box-sizing: border-box;
+    width: 100%;
+    flex-shrink: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px 23px 20px 23px;
+    background-color: #23354d;
+    overflow: visible;
+    /* border-color: #55CCFF; */
+    border-style: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+  .how-to-play {
+    width: auto; /* 116px */
+    height: auto; /* 21px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: bold;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+ 
+    text-align: left;
+  }
+  .how-to-play1 {
+    width: 100%;
+    flex-shrink: 0;
+    /* height: 54px; */
+    overflow: hidden;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: break-word;
+
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+  
+    text-align: justify;
+  }
+  .how-to-play2{
+     
+    border-radius: 6px !important;
+    background-color:rgb(17, 153, 238);
+  }
+  .how-to-play3{
+  
+    padding: 10px;
+    color:white ;
+    font-size: 14px;
+    font-weight: bold;
+  border: none;
+  background-color: #fa0043;
+
+}

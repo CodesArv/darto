@@ -1,0 +1,27 @@
+.scrollbar {
+    overflow-x: scroll;
+  }
+  
+  .scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 2px;
+  }
+  
+  .scrollbar::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.2);
+  }
+  
+  /* custom colors  */
+  .scrollbar-primary::-webkit-scrollbar {
+    background-color: #23354d ;
+  }
+  .scrollbar-primary {
+    scrollbar-color: #10142c #23354d;
+  }
+  .scrollbar-primary::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+    background-color: #10142c;
+  }

@@ -1,0 +1,94 @@
+.bporder_top_and_down{
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 9px;
+   
+}
+.matches_set{
+   
+    border: 1px solid #23354d;
+}
+.Matches_date{
+    color: rgb(120, 144, 161);
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', "Noto Sans", 'Helvetica Neue', sans-serif;
+
+
+   }
+.Matches_Name{
+    color: var(--White, #ffffff);
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', "Noto Sans", 'Helvetica Neue', sans-serif;
+}
+.padding_10px_offer{
+    padding: 10px;
+}
+.player-score-text-color{
+    color: rgb(120, 144, 161);
+    font-size: 14px;
+}
+.border-matches{
+    border: 1px solid #23354d;  
+}
+.text-align-end{
+    text-align: end;
+}
+.border-matches{
+    padding: 10px;
+}
+.padding-10px-history{
+    padding: 3px;
+}
+.display-flex-history{
+    display: flex;
+    justify-content: center;
+}
+.padding_botton_19px{
+    padding-top: 19px;
+    border-bottom: 1px solid #23354d;
+}
+.player-score-text-color-LIVE{
+    font-size: 14px;
+    font-weight: bold;
+    color:green;
+}
+.player-score-text-color-LIVE {
+    -webkit-animation: 1s linear infinite condemned_blink_effect; /* for Safari 4.0 - 8.0 */
+    animation: 1s linear infinite condemned_blink_effect;
+  }
+  
+  /* for Safari 4.0 - 8.0 */
+  @-webkit-keyframes condemned_blink_effect {
+    0% {
+      visibility: hidden;
+    }
+    50% {
+      visibility: hidden;
+    }
+    100% {
+      visibility: visible;
+    }
+  }
+  
+  @keyframes condemned_blink_effect {
+    0% {
+      visibility: hidden;
+    }
+    50% {
+      visibility: hidden;
+    }
+    100% {
+      visibility: visible;
+    }
+  }
+  .player-score-text-color-Over{
+
+    font-size: 14px;
+    font-weight: bold;
+    color:red;
+  }
+  

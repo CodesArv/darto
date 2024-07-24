@@ -1,0 +1,16 @@
+@media all and (min-width: 600px) {
+    .Login {
+      /* padding: 60px 0; */
+      padding-top: 0px;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      width: 50%;
+    }
+  }
+  .Login2{
+   padding-left: 18px;
+   padding-right: 18px;
+    /* border: 1px solid #23354d; */
+  }

@@ -1,0 +1,40 @@
+.partners_padding_top{
+    padding-top: 10px;
+}
+.padding_top_define_partner{
+    padding-top: 10px;
+}
+.padding_partners{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+
+}
+.addParteners{
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+.input_partners{
+    width: 100%;
+    padding: 8px;
+    border-radius: 6px;
+    outline: none;
+}
+.padding_partners_overs{
+    padding: 10px;
+}
+.paddinTopParteners{
+    padding-top: 10px;
+}

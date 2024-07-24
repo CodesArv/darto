@@ -1,0 +1,54 @@
+.size_Slider_Define{
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+}
+.slider_Input_Define{
+    font-size: 14px;
+    padding: 8px;
+    width: 100%;
+    
+}
+.slider_Input_Define1{
+    /* margin-left: 20px; */
+    /* text-align: center; */
+}
+.slider_Input_Define_height{
+    /* padding: 10px; */
+    width: 100%;
+}
+.edit_Delete_box{
+    display: flex;
+justify-content: center;
+
+   gap: 10px;
+   padding-bottom: 18px;
+   padding-right: 9px;
+}
+.padding_top_6px{
+padding-bottom: 10px;
+}
+.box_shadow_slider{
+color: white;
+box-shadow: 2px 2px 4px #10142c;
+
+}
+.padding_top_10px{
+    padding: 10px;
+  
+}
+.padding_top_of_slider{
+    /* padding-top: 25px; */
+}
+.font-style-with-size{
+    font-size: 14px;
+    font-weight: bold;
+}
+.text-align-centers{
+    text-align: center;
+}
+.font-Size-maxColor{
+    color: black;
+    font-size: 14px;
+    text-align: center;
+}

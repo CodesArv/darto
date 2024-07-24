@@ -1,0 +1,36 @@
+{
+  
+  "heading": {
+    "content": "Rules & Regulation"
+  },
+  "body": {
+    "contents": [
+      {
+                "heading": "Expertise",
+                "type": "p",
+                "content":[
+                    "Cost reduction is important but not at any cost! Understanding FX risk and effective mitigation is key - we have the expertise and decades of experience to understand the nuanced issues confronted by businesses. We aim to bring that expertise together to deliver tangible benefits for our clients."
+                ]
+            },
+            {
+                "heading": "Transparency and Trust",
+                "type": "p",
+                "content":[
+                    "We believe transparency and trust are the bedrock of any engagement and hold these as core values. We are changing the market dynamics of this industry which is ready for a low cost offering through game changing technology and expertise, whilst holding ourselves to the highest standards of integrity and professionalism in conducting business."
+                ]
+            },
+            {
+                "heading": "Security of customer funds",
+                "type": "p",
+                "content":[
+                    "Nothing takes higher priority than the safety and security of customer funds. They are always held in segregated bank accounts and never mixed with FXGuard’s own funds. For additional safety and security, FXGuard does not take any market positions or indulge in any proprietary trading activity on its own account, thereby avoiding excessive risk taking and ensuring that its own financial position remains sound and solvent."
+                ]
+            }
+      
+     
+    ]
+   
+  }
+   
+  
+}

@@ -1,0 +1,54 @@
+.usercheck{
+    color :white;
+font-size: 2rem;
+padding: 10px;
+}
+.teamclass{
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 3rem;
+}
+.teamedit{
+    background-color: #10142c;
+    text-align: center;
+    color: white;
+}
+.teamclass1{
+    background-color: #23354d;
+    border: none;
+    color: var(--token-a38dd3d3-b9de-4302-b504-277e6b4a701f, #7890a1);
+}
+.floating-left89{
+    box-sizing: border-box;
+    width: auto; 
+    flex-shrink: 0;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 21px 0px 21px;
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.12), 0px 2px 2px 0px hsla(0, 0%, 0%, 0.24);
+    background-color: var(--token-eff61df6-31e2-4b91-a80b-18b8e7fa3de2, #fa0043);
+    overflow: visible;
+    border-radius: 38px;
+    white-space: pre;
+    font-family: "Roboto-Medium", sans-serif;
+    color: var(--token-dcfc1000-f350-494d-bd15-7f017b76226e, #ffffff) /* {"name":"white"} */;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 1;
+    text-transform: capitalize;
+}
+.padding_Left_20px_right_20px{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.padding_top_9px{
+    padding-top: 9px;
+  
+}
+.padding_bottom_9px{
+    padding-bottom: 9px;
+}

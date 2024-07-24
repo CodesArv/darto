@@ -1,0 +1,18 @@
+.pagess {
+    text-align: center;
+    height: 60vmin;
+    width:100vmin;
+    
+    background-color: #F6F6F6;
+    margin-left: 350px;
+    margin-top: 130px;
+    
+  }
+  .pages {
+    height: 40vmin;
+    width:50vmin;
+    
+  }
+  .spans{
+    color:red;
+  }

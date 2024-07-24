@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.arun{
+    display: flex;
+    justify-content: center;
+    /* font-size: 40px; */
+      
+      color: rgb(22, 159, 255) ;
+    
+
+}
+.xzx{
+    display: flex;
+    /* justify-content: center; */
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+    font-weight: 300;
+color: white;
+
+}
+.div1{
+     width: 100%; 
+    background-color: rgb(16, 20, 44);
+
+}
+ .iconsrow{
+   
+     display: flex;
+     justify-content: center;
+    background-color: rgb(16, 20, 44);
+
+     
+ }
+ 
+ .icon1{
+margin-right: 50px;
+ }
+ .social_Media_Handling{
+     text-decoration: none;
+     text-align:-webkit-center;
+ }
+ .social_Media_Handling:hover{
+    background-color: #10142c !important;
+ }
+ .iconheading{
+    font-family: "Inter", sans-serif;
+    color: var(--token-2a633678-f86b-4ab5-94be-ee4f65254cde, #7890a1) /* {"name":"top_nav_text"} */;
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-align: center;
+ }
+ .iconHoverD:hover{
+color: #e1306c !important;
+/* background-color: #10142c !important; */
+ }
+ .iconHovert:hover{
+     color: #00acee !important;
+ }
+ .iconHoverty:hover{
+color: #ff0000 !important;
+ }
+ .iconHovertf:hover{
+     color: #1778f2 !important;
+ }
+ @media only screen and (max-width: 600px) {
+    .iconheading {
+        font-family: "Inter", sans-serif;
+        color: var(--token-2a633678-f86b-4ab5-94be-ee4f65254cde, #7890a1) /* {"name":"top_nav_text"} */;
+        font-size: 11px;
+        letter-spacing: 0px;
+        line-height: 1.2;
+        text-align: center;
+        
+    }
+    .arun{
+        font-size: 25px;
+    }
+  }

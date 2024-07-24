@@ -1,0 +1,31 @@
+.loc_Tc_Logo{
+    size: 5px ;
+    color: rgb(120, 144, 161);
+}
+.loc_Tc_Logo1{
+    size: 5px ;
+    color: #00bbff;
+    position: absolute;
+    /* margin-left: -160px; */
+}
+.loc_Tc_Logo_t{
+    size: 5px ;
+    color: #00bbff;
+    position: absolute;
+    margin-left: -145px;
+}
+.loc_Tc_Logo_c{
+    size: 5px ;
+    color: white;
+    position: absolute;
+    padding-left: 13px;
+    font-size: 9px;
+   
+    /* margin-left: -145px; */
+}
+.margin_paddin_Absolute{
+    position: absolute;
+    padding-top: 99px;
+    display: flex;
+    align-items: center;
+}

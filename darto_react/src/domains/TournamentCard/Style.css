@@ -1,0 +1,26 @@
+.Commoncardpink{
+width: auto; /* 311px */
+height: auto; /* 20px */
+flex-shrink: 0;
+overflow: visible;
+white-space: pre;
+font-weight: 400;
+font-style: normal;
+font-family: "Noto Sans", sans-serif;
+color: var(--red_bright, #ff0000);
+font-size: 16px;
+letter-spacing: 0px;
+font-weight: bold;
+line-height: 1.2;
+text-align: left;
+margin-top: -5px;
+padding-top: 20px;
+}
+
+.colourqw{
+    background-color: white;
+
+    padding-left: 18px !important;
+    padding-right: 18px !important;
+}
+

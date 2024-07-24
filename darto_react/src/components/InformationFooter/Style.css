@@ -1,0 +1,81 @@
+.parent-heading{
+    font-size: 18px;
+ color: white;
+}
+.parent{
+background-color: rgb(22, 159, 255) !important;
+/* width: 100%; */
+padding: 10px;
+}
+.parent-data{
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 6%;
+    font-size: 14px;
+    text-align: justify;
+    color: white;
+}
+.child{
+    border: solid white 2px;
+    width: 79%;
+    
+}
+.child-heading{
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+@media only screen and (max-width: 600px) {
+    .child-heading {
+      display: flex;
+      justify-content: left;
+      margin-left: 15px;
+    }
+    .child{
+        width: 86%;
+    }
+   
+  }
+  .class_fontweight_bold{
+     
+      text-align: center;
+  }
+  .with_buttom_lst_spc{
+      /* padding: 5px; */
+      height: 30px;
+      font-size: 14px;
+     
+      border: none;
+    color: #23354d;
+    font-weight: bold;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+  .padding_bottom_18px{
+      padding-bottom: 18px;
+  }
+  /* @media only screen and (min-width: 700px) {
+      .padding_top_10px_inf{
+          margin-top: 50px !important;
+      }
+  } */
+  .copyRight_define{
+      text-align: center;
+      padding-top: 36px;
+    text-transform: uppercase;
+      color: #7890a1;
+      padding-left: 21px;
+      padding-right: 21px;
+      font-size: 9px;
+  }
+  /* .width_100_per{
+      width: 100%;
+  } */
+  @media only screen and (max-width: 600px) {
+  .gap_with_10px{
+      gap:10px
+  }
+}

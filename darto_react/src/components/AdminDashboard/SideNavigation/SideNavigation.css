@@ -1,0 +1,12 @@
+.sider-display{
+    display: flex;
+}
+/* .nav_bg_col{
+    border: 1px solid gray !important;
+} */
+
+.border_top_left_right{
+    border: 1px solid gray !important;
+    margin-top: 10px;
+
+}

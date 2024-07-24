@@ -1,0 +1,65 @@
+.team-joined {
+    width: auto; /* 86px */
+    height: auto; /* 14px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: 700;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--grey2, #7890a1);
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1;
+    text-align: center;
+  }
+  .textpara1 {
+    width: auto; /* 171px */
+    height: auto; /* 14px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--white, #ffffff);
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+  .stake-team-details1 {
+    flex: 1;
+    width: 1px;
+    flex-shrink: 0;
+    height: 82px;
+    display: flex;
+    margin-left: 10px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow: visible;
+    border-radius: 6px;
+  }
+  .stake-avator1{
+      width: 100%;
+  }
+  .stake-avator-remve{
+    /* width: 100%; */
+    box-sizing: border-box;
+    flex-shrink: 0;
+    width: 90px;
+    /* height: 30px; */
+    overflow: visible;
+    border-radius: 30px;
+    border: 2px solid  #fa0043 ;
+    font-weight: 700;
+  font-style: normal;
+  font-family: "Noto Sans", sans-serif;
+  color: #7890a1 ;
+  font-size: 14px;
+  letter-spacing: 0px;
+  line-height: 1;
+ margin-top: 10px;
+  text-align: center;
+}

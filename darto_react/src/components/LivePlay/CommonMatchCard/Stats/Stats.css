@@ -1,0 +1,56 @@
+.bporder_top_and_down_d{
+    border: 1px solid #23354d;
+   
+}
+.matches_set_Detail{
+    background-color: #202337;
+ 
+}
+.display_flex_detail{
+    width: 100%;
+    display: flex;
+}
+.Matches_Stat{
+    color: rgb(120, 144, 161);
+  
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', "Noto Sans", 'Helvetica Neue', sans-serif;
+
+
+   }
+   .stack-darto_mat{
+   
+    width: 100%; /* 79px */
+    flex-shrink: 0;
+    height: 27px;
+    display: flex;
+   
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  
+    
+    border-radius: 15px;
+  
+}
+.align_item_center{
+    align-items: center;
+    display: flex;
+}
+.Matches_Stat{
+    text-align: center;
+}
+.withdt_100_text{
+    width: 100%;
+    text-align: center;
+    color: var(--White, #ffffff);
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', "Noto Sans", 'Helvetica Neue', sans-serif;
+}
+.padding_18px_left_right{
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 99px;
+}

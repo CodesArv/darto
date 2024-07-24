@@ -1,0 +1,6 @@
+.border_top_bottom_1px{
+    border-top: 1px solid #23354d;
+    border-bottom: 1px solid #23354d;
+    padding-top: 9px;
+    padding-bottom: 18px;
+}

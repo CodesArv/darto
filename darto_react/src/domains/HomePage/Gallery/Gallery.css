@@ -1,0 +1,46 @@
+.grid-container {
+   
+    background-color: #10142c;
+    padding: 10px;
+  }
+  .grid-item-def {
+  
+   
+    padding: 2px;
+    
+    text-align: center;
+  }
+  
+.txtcolor5{
+    color: #02a3e0;
+    font-size: 14px;
+}
+
+.button-container-div5 {
+    width: 100%;
+    height: 10vh;
+    margin: auto;
+}
+.txtcolor4{
+    color: red;
+    font-size: 1rem; 
+}
+.trnmt5{
+    padding: 100px;
+}
+.txtcolor6{
+    color: var(--grey2, #7890a1);
+    font-size: 12px;
+}
+.txtcolor7{
+    color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+/* margin-top: 10px; */
+padding-top: 9px;
+padding-bottom: 9px;
+}
+.padding-10px-left-to-right{
+  padding-left: 10px;
+  padding-right: 10px;
+}

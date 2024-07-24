@@ -1,0 +1,26 @@
+
+  .general-infosubheading {
+    font-size: 20px;
+    line-height: 25px;
+    color: var(--token-62d928f7-b29b-49a5-a425-bbc990e69ba9, #ffffff) /* {"name":"ag_white"} */;
+  }
+  .about-dartosw {
+    /* white-space: pre; */
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-2a633678-f86b-4ab5-94be-ee4f65254cde, #7890a1)  /* {"name":"top_nav_text"} */;
+    font-size: 3rem;
+    letter-spacing: 0px;
+    line-height: 4rem;
+    text-transform: capitalize;
+    text-align: justify;
+    margin-top: 6px;
+    padding-bottom: 10px;
+  }
+  .gen-info-del{
+    color: var(--token-d983c132-e015-4177-baf8-441dbe84f948, #00bbff);
+    font-size: 30px;
+    margin-top: 0;
+    text-align: left;
+  }

@@ -1,0 +1,13 @@
+.shadow13 { 
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+  }
+
+  .darto-l2{
+    width: 100%;
+    border-radius: 5px;
+    font-size: 3rem;
+  }
+  .Tabletournament{
+    font-size: 2rem;
+    margin-top: 40px;
+  }

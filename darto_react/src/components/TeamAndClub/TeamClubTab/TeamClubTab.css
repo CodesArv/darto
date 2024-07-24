@@ -1,0 +1,40 @@
+.team_ClubBlock{
+  
+        width: 100%;
+        flex-shrink: 0;
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        overflow: visible;
+
+}
+.logo_With_Content {
+
+    height: 36px; /* 15px */
+    flex-shrink: 0;
+    /* width: 80px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: visible;
+  }
+  .content_Right{
+    font-family: "Inter", sans-serif;
+    color: var(--token-a38dd3d3-b9de-4302-b504-277e6b4a701f, #7890a1) /* {"name":"grey2"} */;
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    margin-left: 10px;
+  }
+  .logo_Tc_color{
+    size: 10px;
+      color: rgb(120, 144, 161);
+  }
+
+  .padding-lef-20px-padding-right-20px{
+    padding-left: 20px;
+    padding-right: 20px;
+  }

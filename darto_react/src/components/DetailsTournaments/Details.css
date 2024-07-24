@@ -1,0 +1,194 @@
+.detailcardcompo{
+    background-color:rgb(16, 20, 44);
+   padding-left: 20px;
+   padding-right: 20px;
+}
+.detailtxtcolor1{
+    color: rgb(22, 159, 255);
+    font-size: 130%;
+}
+.detailzxcv{
+    display: flex;
+    justify-content:space-between;
+}
+.detailshareicon{
+    color: white;
+    margin-right: 20px;
+    font-size: 25px;
+}
+.detailstadiumname{
+    color: white;
+    font-size: 80%;
+   margin-top: -8px; 
+}
+.detailtournamentdetails{
+    color: grey;
+    font-size: 80%;
+}
+.detailbtndiv{
+   
+    display: flex;
+    justify-content: space-between;
+}
+.detailbtnparticipate{
+    justify-content: center;
+    align-items: center;
+    padding: 3px 21px 3px 21px;
+    background-color: var(--token-eff61df6-31e2-4b91-a80b-18b8e7fa3de2, #fa0043);
+    overflow: visible;
+    border-radius: 52px;
+    color: white;
+    border: none;
+}
+.detailbtnmoredetail{
+    border: none;
+    background: none;
+    color: rgb(22, 159, 255);
+
+}
+.leftclass{
+    display: flex;
+    justify-content: left;
+    color: gray;
+    font-size: 12px;
+}
+.rightclass{
+    display: flex;
+    justify-content: flex-end;
+    color: gray;
+    font-size: 12px;
+}
+.leftdetail{
+    display: flex;
+    justify-content: left;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    /* padding-top: 5px; */
+}
+.rightdetail{
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    /* padding-top: 5px; */
+}
+.more{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    color: rgb(22, 159, 255);
+
+
+
+}
+.asdf{
+    padding-bottom: 18px;
+}
+.icon{
+    font-size: 18px;
+    margin-right: 10px;
+}
+.overview{
+    color: rgb(22, 159, 255);
+    border-top: solid #23354d 1px;
+    margin-top: 20px !important;
+}
+.morepara{
+    color: white;
+    font-size: 12px;
+    text-align: justify;
+}
+.def_margin_itm{
+    margin-left: 5px;
+    margin-top: -3px;
+}
+.icon_FontColor{
+    font-size: 10px;
+    color: #7890a1;
+    flex-wrap: none;
+}
+.font_Style_Sub{
+    color: #7890a1;
+    font-size: 14px ;
+}
+.color_White{
+    color: white;
+}
+.margin_Perfect_top{
+    margin-top: 36px !important;
+}
+.margin_Left_Item{
+    margin-top: 5px !important;
+}
+.margin_Bottom_Left{
+    margin-top:-20px !important ;
+}
+.margin_Define_Properly{
+    margin-top:-20px !important ;  
+}
+/* .aspect-ratio-item-fluid{
+    aspect-ratio: 16/9;
+} */
+.detailcardcompo{
+    width: 96%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* 
+.padding-tab-club1
+{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+@media only screen and (max-width: 600px) {
+   .detailbtnparticipate{
+       width: 100%;
+       padding: 5px;
+       font-size: 12px;
+   }
+   .detailbtnmoredetail{
+       font-size: 12px;
+   }
+
+   .leftclass{
+       font-size: 10px;
+   }
+.rightclass{
+    font-size: 10px;
+}
+.leftdetail{
+    font-size: 12px;
+}
+.rightdetail{
+    font-size: 14px;
+}
+.more{
+    font-size: 15px;
+}
+.def_margin_itm{
+    margin-left: 5px;
+    margin-top: -3px;
+}
+.detailcardcompo{
+    width: 100%;
+    
+}
+.header_Fixontop{
+    margin-top: 20px;
+}
+.margin_View_Devide{
+    margin-top: 70vw !important;
+}
+
+.padding-tab-club1{
+    width: 100%;
+}
+/* .width_Define_Subheader{
+ width: 100%;
+  
+  } */
+  }

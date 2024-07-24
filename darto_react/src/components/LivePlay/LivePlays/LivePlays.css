@@ -1,0 +1,315 @@
+
+  .Tournament-Mode {
+    height: auto; /* 29px */
+    flex-shrink: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    overflow: visible;
+ 
+  }
+  .tournament-mode2 {
+    width: auto; /* 175px */
+    height: auto; /* 24px */
+
+  padding-top: 9px;
+  padding-bottom: 9px;
+    white-space: pre;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: var(--token-d983c132-e015-4177-baf8-441dbe84f948, #00bbff) /* {"name":"blue_highlight"} */;
+    font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+  }
+  .League-tour{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    cursor: pointer;
+   padding: 6px;
+    background-color:  #23354d;
+ 
+    border-radius: 4px;
+  }
+  .l-e-a-g-u-e1 {
+    width: auto; /* 52px */
+    height: auto; /* 17px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    text-align: left;
+  }
+  .stack-league {
+    height: auto; /* 76px */
+    flex-shrink: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow: visible;
+  }
+  .add-players {
+    width: auto; /* 74px */
+    height: auto; /* 14px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    color:  #7890a1;
+    font-size: 14px;
+    letter-spacing: 0px;
+    margin-top: 10px;
+    line-height: 1;
+  }
+  .add-players1{
+      width: 100%;
+      margin-top: 8px;
+  }
+  .add-players2{
+    width: 100%;
+   padding: 10px;
+   font-size: 20px;
+   letter-spacing: 0px;
+   line-height: 1.2;
+   color:  #00bbff;
+   background-color: rgb(35, 53, 77);
+ border: none;
+ border-radius: 5px;
+  }
+  .stack-team-a {
+    box-sizing: border-box;
+    height: auto; /* 182px */
+    flex-shrink: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 11px 0px 11px 0px;
+    overflow: visible;
+    border-radius: 6px;
+  }
+  .team-a {
+    width: auto; /* 48px */
+    height: auto; /* 14px */
+    flex-shrink: 0;
+    overflow: visible;
+    white-space: pre;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    color: #02f276;
+    font-size: 14px;
+    letter-spacing: 0px;
+    margin-top: 20px;
+   
+    line-height: 1;
+  }
+  .stack-a-b{
+    box-sizing: border-box;
+    width: 100%;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    background-color: #202337;
+    overflow: visible;
+    border-radius: 6px;
+    color:  #7890a1;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    line-height: 1.2;
+  }
+  .stack-a-b-c{
+      margin-top: 10px;
+      width: 100%;
+  }
+  .game-mode {
+    height: auto; /* 52px */
+ 
+    width: 100%;
+    /* display: flex; */
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+    overflow: visible;
+  }
+  
+  .game-mode2{
+    width: 100%;
+    white-space: pre;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    color:  #7890a1;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1;
+    padding-top: 18px;
+    padding-bottom: 6px;
+  }
+
+
+  .add-players4{
+    width: 100%;
+    margin-top: 8px;
+}
+.add-players5{
+  /* width: 40vw; */
+  border: none;
+ padding: 10px;
+ font-size: 20px;
+ letter-spacing: 0px;
+ line-height: 1.2;
+ color:  #00bbff;
+ background-color: rgb(35, 53, 77);
+ border-radius: 5px;
+}
+
+.legs-name {
+    box-sizing: border-box;
+    width: auto; /* 310px */
+    height: auto; /* 51px */
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 9px;
+    overflow: visible;
+    border-radius: 33px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    color:  #7890a1;
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 1;
+  }
+  .submit-live-play{
+  
+        box-sizing: border-box;
+        text-align: center;
+        width: 100%;
+        height: 54px;
+        margin-top: 10px;
+        background-color:  #0d132b;
+      
+ 
+  }
+  .round-play-live {
+    width: 216px;
+    height: 36px;
+    background-color:  #fa0043;
+    overflow: visible;
+    border-radius: 30px;
+    white-space: pre;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: autoS;
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color:  #ffffff;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 1;
+    border: none;
+    
+  
+  }
+
+  @media only screen and (max-width: 600px) {
+    .stack-live-play {
+      box-sizing: border-box;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+     padding-left: 18px;
+     padding-right: 18px;
+      overflow: visible;
+      border-color:  #23354d;
+      border-style: solid;
+      border-top-width: 0px;
+      border-bottom-width: 1px;
+      border-left-width: 0px;
+      border-right-width: 0px;
+      /* padding-top: 120px; */
+    }
+   }
+  .width_100_teamA{
+    width: 100%;
+  }
+  .display_flex-with_100{
+    display: flex;
+    width: 100%;
+    gap:12px;
+  }
+  @media only screen and (max-width: 600px) {
+    .heade_subheader_Define_DT_live{
+      background-color: #10142c;
+      top: 0;
+      height: 54px;
+      padding-left: 18px;
+      padding-right: 18px;
+      position: fixed;
+      z-index: 10;
+  }
+   }
+   @media only screen and (min-width: 600px) {
+    .header{
+      background-color: #10142c;
+    margin-top: 55px;
+    height: 45px;
+    position: fixed;
+    z-index: 10;
+    max-width: 60%;
+    left: 20%;  
+    }
+    .heade_subheader_Define_DT_live{
+      height: 50px;
+      max-width: 60%;
+      left: 20%;
+      position: fixed;
+      z-index: 100;
+      top: 0;
+      background-color: #10142c !important;
+    }
+    .padding-left-right-sc-h{
+      padding-left: 18px;
+      padding-right: 18px;
+    }
+  }
+.logo_Score{
+  width: 99px;
+  background-color: #10142c !important;
+  top: 0; 
+}
+.logo_width_scoreCard{
+  margin: auto;
+}
+.padding_bottom_99px_btm{
+  padding-bottom: 99px;
+}

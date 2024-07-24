@@ -1,0 +1,55 @@
+.cardcompo{
+    background-color:rgb(16, 20, 44);
+}
+.txtcolor1{
+    color: rgb(22, 159, 255);
+    font-size: 130%;
+}
+.zxcv{
+    display: flex;
+    justify-content:space-between;
+}
+.shareicon{
+    color: white;
+    margin-right: 20px;
+    font-size: 25px;
+}
+.stadiumname{
+    color: white;
+    font-size: 80%;
+   margin-top: -8px; 
+}
+.tournamentdetails{
+    color: grey;
+    font-size: 80%;
+}
+.btndiv{
+    display: flex;
+    justify-content: space-between;
+}
+.btnparticipate{
+    background-color: #fE6666;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    width: 150px;
+}
+.btnmoredetail{
+    border: none;
+    background: none;
+    color: rgb(22, 159, 255);
+
+}
+@media only screen and (max-width: 600px) {
+   .btnparticipate{
+       width: 100px;
+       padding: 5px;
+       font-size: 12px;
+   }
+   .btnmoredetail{
+       font-size: 12px;
+   }
+
+  }

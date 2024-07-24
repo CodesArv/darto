@@ -1,0 +1,126 @@
+toolbar.toolbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(70, 111, 161);
+    height: 56px;
+  }
+  .white{
+    background-color: white;
+  }
+  .toolbar_navigator {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 1rem 0;
+  }
+  .toolbar_logo {
+    margin-left: 1rem;
+  }
+
+  
+  .toolbar_logo a {
+    color: #000;
+    text-decoration: none;
+    font-size: 1.5rem;
+    
+    font-weight: 500;
+  }
+  
+  .toolbar_logo a:hover {
+    color: #000;
+  }
+  
+  .toolbar_logo a img{
+    width: 50px;
+    height: 40px;
+  }
+  
+  .spacer {
+    flex: 1;
+  }
+  
+  .toolbar_navigation-items ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .toolbar_navigation-items li {
+    padding: 2px 15px;
+    margin: 0 15px;
+  }
+  
+  .toolbar_navigation-items a {
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    font-weight: 300;
+  }
+  
+  .toolbar_navigation-items a:hover,
+  .toolbar_navigation-items a:active {
+    color: #000;
+  }
+  
+  .mobile_toolbar_login {
+    display: none;
+  }
+  
+  .toolbar_cart_icon{
+    display: none;
+  }
+  
+  @media screen and (max-width: 760px) {
+    .toolbar_navigation-items {
+      display: none;
+    }
+    
+    .toolbar_logo a img{
+      width : 220px;
+      height: 22px;
+    }
+  
+    .mobile_toolbar_login {
+      display: block;
+      margin-left: 3rem;
+    }
+  
+    .loginBtn {
+      text-decoration: none;
+      background: #000;
+      box-shadow: none;
+      border: none;
+      color: #fff;
+      padding: 5px 8px;
+      font-size: 16px;
+      text-transform: uppercase;
+      
+    }
+  
+    .loginBtn:active {
+      color: #fff;
+    }
+  
+    .loginBtn:visited {
+      color: #fff;
+    }
+    .toolbar_logo {
+      margin-left: 0;
+    }
+    
+    .toolbar_cart_icon{
+      display: block;
+      margin: 0 1rem 0 2.5rem
+    }
+  }
+  
+  @media screen and (min-width: 759px) {
+    .toggle-btn {
+      display: none;
+    }
+  }
+  

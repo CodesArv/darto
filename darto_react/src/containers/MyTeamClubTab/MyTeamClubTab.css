@@ -1,0 +1,36 @@
+/* .padding-tab-club1{
+    padding-top: 120px;
+} */
+.fapen{
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Noto Sans", sans-serif;
+  color:  #7890a1;
+  font-size: 14px;
+  letter-spacing: 0px;
+  /* line-height: 1; */
+  display: flex;
+  text-transform: capitalize;
+  text-align: left;
+  align-items: center;
+
+}
+.background_All_Tab{
+  background-color: #10142c !important;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  background-color: #10142c !important;
+  border-color:  #00bbff !important;
+  border-top: none !important;
+  border-left: none;
+  border-right: none;
+}
+.fapen:hover{
+  color: #00bbff;
+}
+.nav-tabs{
+  border-bottom: 2px solid #23354d !important;
+}
+.padding-tab-club1{
+  padding-bottom: 99px;
+}

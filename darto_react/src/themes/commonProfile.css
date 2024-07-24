@@ -1,0 +1,210 @@
+/* font color blue with 20px */
+.font_Blue_twenty{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color: #00bbff;
+    font-size: 20px;
+    font-weight: bold;
+}
+/* with blue color font size */
+.font_Style_Common{
+    font-family: "Roboto-Medium", sans-serif;
+    color:  #00bbff;
+    font-size: 14px;
+    
+}
+/* logo color with gray */
+.logo_Style_Common{
+    padding-right: 5px;
+    font-size: 16px;
+    color: rgb(120, 144, 161);
+}
+
+ /* line style b/w logo and text */
+.padding_Common_Line{
+    padding-left: 9px;
+    padding-right: 9px;
+    color: #7890a1;
+}
+/* font style gray with 14px size */
+.common_Font_Style_Gray{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color:  #7890a1;
+    font-size: 14px;
+}
+/* font size 14 px with color white */
+.commn_FontSize_white{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color:  #ffffff;
+    font-size: 14px;
+}
+/* 16px with blue */
+.font_Dart_blue{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color:  #00bbff;
+    font-size: 16px;
+    font-weight: bold;
+}
+/* color gray with 11px */
+.common_Gray_Eleven{
+    font-family: "Inter", sans-serif;
+    color:  #7890a1;
+    font-size: 11px;
+}
+/* color gray with 10px */
+.color_gray_Ten{
+    font-family: "Inter", sans-serif;
+    color:  #7890a1;
+    font-size: 10px;
+}
+/* gray with 12px */
+.color_Gray_Twelve{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color:  #7890a1;
+    font-size: 12px;
+}
+/* color_Gray_Nine  9px*/
+.color_Gray_Nine{
+    font-family: "Noto Sans", sans-serif;
+  color:  #ffffff;
+  font-size: 9px;
+  
+}
+/* 12px with blue */
+.twelve_With_Blue{
+    font-style: normal;
+    font-family: "Noto Sans", sans-serif;
+    color:  #00bbff;
+    font-size: 12px;
+}
+.aligin_devider{
+    align-items: center;
+}
+.padding_profile_bottom{
+    padding-bottom: 18px;
+    
+}
+.padding_profile_top{
+    padding-top: 18px !important;
+}
+.padding_left_9px{
+    padding-left: 9px;
+}
+.bottom_9px_padding{
+padding-bottom: 9px;
+}
+.coolo_size_text_iconn{
+   font-size: 14px; 
+   color: #7890a1;
+}
+.icon_color_not_define{
+    padding-left: px;
+}
+.padding_left_Club{
+    padding-left: 6px;
+}
+.font_Size_16px{
+    font-size: 16px;
+}
+.paddin_top_9px{
+    padding-top: 9px !important;
+}
+.color_Blue_define_sh{
+    color: #00bbff; 
+}
+.padding_bottom_nine9{
+    padding-bottom: 99px;
+}
+.display_arrow_on_img{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    padding-top: 25%;
+    color: white;
+    
+}
+.with_define_vw{
+    width: 100%;
+}
+.with_define_vw_flot{
+    float: right;
+}
+.padding_From_Left_right{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card_Body_none1{
+    padding: 0px !important;
+ 
+  }
+  .card_margin_0px{
+     margin-bottom: 0px !important; 
+  }
+  .padding_bottom_3px{
+      padding-bottom: 3px;
+  }
+  .padding_left_Club_3{
+      padding-right: 6px;
+  }
+  .padding_left_21px{
+      padding-left: 21px;
+  }
+  .align_Display_Flex{
+    display: flex !important;
+    align-items: center !important;
+  }
+  .padding_left_18px{
+      padding-left: 18px;
+  }
+  .padding_9px_define{
+      padding-right: 10px;
+  }
+  .float_left_all{
+      float: left;
+  }
+  /* .zindex_10{
+      z-index: 10 ;
+  } */
+  .padding_lef_right_20px{
+      padding-left: 20px;
+      padding-right: 20px;
+      
+  }
+  .divider_1px_23345d{
+      border-top: 1px solid #23345d;
+      padding-top: 9px;
+      padding-bottom: 9px;
+  }
+  .bottom_9px_padding{
+      padding-bottom: 9px;
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+  .serch_item_color_12px{
+    font-family: "Inter", sans-serif;
+    color: #7890a1 /* {"name":"grey2"} */;
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    margin-left: 10px;
+    text-align: center;
+  }
+  .serch_item_color_12pc{
+    font-family: "Inter", sans-serif;
+    color:  #7890a1 /* {"name":"grey2"} */;
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    margin-left: 10px;
+   
+  }
+  .display_flex_alignc_nter{
+      display: flex;
+  }
+  .padding_bottom9px{
+      padding-bottom: 9px !important;
+  }
