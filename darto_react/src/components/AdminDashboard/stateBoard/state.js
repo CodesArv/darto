@@ -1,7 +1,7 @@
 import React from "react";
 //import HeaderDashboard from "./HeaderDashboard/HeaderDashboard";
 import SideNavigation from "../SideNavigation/SideNavigation";
-import { Container, Row, Col } from "react-bootstrap";
+// import { Container, Row, Col } from "react-bootstrap";
 // import "./ClubAdmin.css";
 import StateBoardTable from "./stateBoardTable/StateBoardTable";
 const State = () => {
@@ -13,11 +13,11 @@ const State = () => {
             <HeaderDashboard />
           </Col>
         </Row> */}
-        <div className='row'>
-          <div className='col-3'>
+        <div style={{display:"flex"}}>
+          <div >
             <SideNavigation />
           </div>
-          <div className='col-9' style={{ backgroundColor: "white" }}>
+          <div  style={{ backgroundColor: "white" }}>
             {/* <div /> */}
             <StateBoardTable />
           </div>
