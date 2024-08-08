@@ -117,7 +117,7 @@ export default function App() {
       <BrowserRouter>
           <div className="devider_IN_60">
               <Layout>
-                  <div className="padding_Botto_Top_d">
+                  <div className="">
                       <Switch>
                           <Route exact path="/home" component={Ccarousal} />
                           <UserProtected
@@ -306,7 +306,6 @@ export default function App() {
                               path="/admin"
                               component={Admin}
                           />
-                          <ProtectedRoute
                               exact
                               path="/table"
                               component={TableView}

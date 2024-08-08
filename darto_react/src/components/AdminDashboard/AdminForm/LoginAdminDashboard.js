@@ -13,11 +13,11 @@ const loginAdminDashBoard = () => {
             <HeaderDashboard />
           </Col>
         </Row> */}
-        <div className="row">
-          <div className="col-3">
+        <div style={{display:"flex"}}>
+          <div >
             <SideNavigation />
           </div>
-          <div className="col-9" style={{backgroundColor: "white" }}>
+          <div  style={{backgroundColor: "white" }}>
           {/* <div /> */}
             <CafeBarView />
           </div>

@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from "react";
 import Table from "react-bootstrap/Table";
-import { Container, Row, Col, Form } from "react-bootstrap";
-import { AiOutlineArrowLeft } from "react-icons/ai";
+// import { Container, Row, Col, Form } from "react-bootstrap";
+// import { AiOutlineArrowLeft } from "react-icons/ai";
 import Select from "react-select";
 import "./TournamentView.css";
 import EditIcon from "@mui/icons-material/Edit";
 import DeleteIcon from "@mui/icons-material/Delete";
 import AddAdminData from "../AddAdminData/AddAdminData";
 import EditTournamentData from "../EditTournamentData/EditTournamentData";
-import { Modal, Button } from "react-bootstrap";
+import { Modal } from "react-bootstrap";
 import { apiHandler } from "../../../../assets/api";
 import { endpoint } from "../../../../assets/api/endpoint";
 import { useHistory } from "react-router";
@@ -18,7 +18,7 @@ import FeaturedPlayListIcon from "@mui/icons-material/FeaturedPlayList";
 import ThumbUpIcon from "@mui/icons-material/ThumbUp";
 import ThumbDownIcon from "@mui/icons-material/ThumbDown";
 import SelectAsync from "../TournamentView/SelectAsync";
-import { Input } from "reactstrap";
+// import { Input } from "reactstrap";
 import NoticeModal from "../../NoticeModal/NoticeModal";
 import MaterialIcon from "react-google-material-icons";
 export const formatDate = (dateObj) => {
@@ -134,7 +134,7 @@ const EditTournamentModal = ({
   );
 };
 const TableView = (id) => {
-  const [searchItem, setSearchItem] = useState("");
+  // const [searchItem, setSearchItem] = useState("");
   const options = [
     { value: "The Crownlands" },
     { value: "Iron Islands" },
@@ -352,14 +352,14 @@ const TableView = (id) => {
               </div>
             </div>
 
-            <div className='listing-tournament'>
+            {/* <div className='listing-tournament'>
               <a href='#' class='previous'>
                 &laquo; Previous
               </a>
               <a href='#' class='next'>
                 Next &raquo;
               </a>
-            </div>
+            </div> */}
           </Modal.Body>
         </Modal>
 
@@ -391,7 +391,7 @@ const TableView = (id) => {
             responsive
             striped
             className='Tabletournament'
-            style={{ padding: "20px" }}
+            style={{ padding: "20px", width:"100vw" }}
           >
             <thead>
               <tr>
